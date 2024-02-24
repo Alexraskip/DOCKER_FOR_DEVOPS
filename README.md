@@ -30,7 +30,7 @@ To get started with Docker for DevOps, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anshulc55/Docker_for_DevOps.git
+   git clone https://github.com/Alexraskip/DOCKER_FOR_DEVOPS.git
    ```
 
 2. Navigate to the repository directory:
